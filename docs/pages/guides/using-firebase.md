@@ -24,6 +24,8 @@ First we need to setup a Firebase Account and create a new project. We will be u
 
 ```javascript
 import { initializeApp } from 'firebase/app';
+or
+import firebase from 'firebase/app';
 
 // Optionally import the services that you want to use
 //import {...} from "firebase/auth";
